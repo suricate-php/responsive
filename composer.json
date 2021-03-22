@@ -3,7 +3,7 @@
     "description": "Suricate Responsive Image",
     "type": "library",
     "require": {
-        "suricate-php/framework": "0.4.10"
+        "suricate-php/framework": ">=0.4.10"
     },
     "license": "MIT",
     "authors": [
