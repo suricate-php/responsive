@@ -7,9 +7,9 @@
     },
     "autoload": {
         "psr-0": {
-          "Suricate": "src/"
+            "Suricate\\Responsive": "src/"
         }
-      },
+    },
     "license": "MIT",
     "authors": [
         {
