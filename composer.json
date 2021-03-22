@@ -1,13 +1,12 @@
 {
     "name": "suricate-php/responsive",
     "description": "Suricate Responsive Image",
-    "type": "library",
     "require": {
         "suricate-php/framework": ">=0.4.10"
     },
     "autoload": {
-        "psr-0": {
-            "Suricate\\Responsive": "src/"
+        "psr-4": {
+            "Suricate\\Responsive\\": "src/"
         }
     },
     "license": "MIT",
