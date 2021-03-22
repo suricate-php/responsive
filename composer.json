@@ -1,0 +1,16 @@
+{
+    "name": "suricate-php/responsive",
+    "description": "Suricate Responsive Image",
+    "type": "library",
+    "require": {
+        "suricate-php/framework": "0.4.10"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mathieu LESNIAK",
+            "email": "mathieu@lesniak.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
